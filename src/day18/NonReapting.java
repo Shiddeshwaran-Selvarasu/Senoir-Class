@@ -1,13 +1,9 @@
 package day18;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class NonReapting {
 	public static void main(String[] args) {
-		
-		ArrayList<Integer> al = new ArrayList<>();
-		al.
 		
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
@@ -37,8 +33,5 @@ public class NonReapting {
 				break;
 			}
 		}
-		
-//		System.out.println("-");
-		
 	}
 }

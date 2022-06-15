@@ -7,7 +7,8 @@ public class StringCount {
 		Scanner sc = new Scanner(System.in);
 		String str = sc.nextLine();
 		char cc[] = str.toCharArray();
-		
+		sc.close();
+
 		int upperCase = 0;
 		int lowerCase = 0;
 		int specialCharacter = 0;
